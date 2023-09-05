@@ -1,5 +1,25 @@
-<h2 align="left">Greetings! 👋<br>My name is Roman and I'm a back-end developer</h2>
-<p></p>
+<h2 align="left">It's a pleasure to meet you! 👋</h2>
+
+<h3>About me</h3>
+
+<p>
+Well, my name is Roman Ledin and I'm 24 years old. <br>
+For the last 3 years I'm working as a backend-developer.
+  
+> And even have my own small team @push-devs
+  <p align="right">
+    Previous jobs: <br>
+    https://sidusheroes.com/ as back-end developer (using blockchain / web3) <br>
+    https://unionepro.ru as back-end developer <br>
+    https://pilicam.online as lead backend developer <br>
+    https://protranslating.com as full-stack developer <br>
+    [NewPubCo.inc](https://newpub.co/) as back-end developer
+  </p>
+</p>
+
+
+<br>
+
 <h3>Technologies stack</h3>
 
 <div>

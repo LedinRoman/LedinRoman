@@ -1,7 +1,7 @@
 <h2 align="left">Greetings! 👋<br>My name is Roman and I'm a back-end developer</h2>
 <h4 align="left">I work mostly with these technologies:</h4>
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -18,7 +18,6 @@
 </div>
 
 <h4 align="right">But I'm also good with these ones...</h4>
-
 <div align="right">
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=black&style=for-the-badge" height="40" alt="rabbitmq logo"  />
   <img width="12" />
@@ -31,8 +30,14 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="40" alt="vuejs logo"  />
 </div>
 
-<p align="center">And here is my contacts</p>
+<div align="center">
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledinroman&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ledinroman&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  </div>
+</div>
 
+<p align="center">And here is my contacts</p>
 <div align="center">
   <a href="mailto:ledinromanwork@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />

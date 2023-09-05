@@ -2,7 +2,7 @@
 
 
 <h4 align="left">I work mostly with these technologies:</h4>
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
@@ -19,8 +19,8 @@
 </div>
 
 
-<h4 align="right">But I'm also good with these ones...</h4>
-<div align="right">
+<h4 align="left">But I'm also good with these ones...</h4>
+<div align="left">
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />

@@ -1,8 +1,12 @@
 <h2 align="left">Greetings! 👋<br>My name is Roman and I'm a back-end developer</h2>
 
-  <p align="justify">I work mostly with these technologies below &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-  But I also have large experience with these</p>
 
+<div>
+  <div> aasd </div>
+  <div align="right"> basdasd </div>
+</div>
+
+<p>
   <img align="left" src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img align="left" src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img align="left" src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
@@ -15,9 +19,10 @@
   <img align="right" src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
   <img align="right" src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img align="right" src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
+</p>
 
-<br/>
-<br/>
+<br>
+<p> blank </p>
 
 <p align="center">And here is my contacts</p>
 <div align="center">

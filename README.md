@@ -40,7 +40,8 @@
   <img align="left" src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
   <img align="left" src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
   <img align="left" src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
-
+  <br> 
+  <br>
   <p align="right"> And I'm also familiar with these </p>
 </div>
 

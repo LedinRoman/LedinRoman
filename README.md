@@ -11,9 +11,9 @@
   My jobs: <br>
   🟢 &nbsp; At <a href="https://sidusheroes.com/" target="_blank">Sidus Heroes</a> as back-end developer (blockchain / web3) <br>
   🟢 &nbsp; At <a href="https://neiroseti.ai/" target="_blank">Neiroseti.ai</a> - as PUSH DEVS, backend development <br>
-  🟡 &nbsp; At <a href="https://azart.tech/en/" target="_blank">Azart tech</a> - as PUSH DEVS, backend development <br>
 
   Previous jobs: <br>
+  <a href="https://azart.tech/en/" target="_blank">Azart tech</a> - as PUSH DEVS, backend development (lead) <br>
   <a href="https://unionepro.ru" target="_blank">UnionePro</a> - lead backend developer; <br>
   <a href="https://pilicam.online" target="_blank">Pilicam</a> - lead backend developer; <br>
   <a href="https://protranslating.com" target="_blank">Protranslating</a> - full-stack developer; <br>

@@ -10,7 +10,7 @@
 
   My jobs: <br>
   🟢 &nbsp; At <a href="https://neiroseti.ai/" target="_blank">Neiroseti.ai</a> - as PUSH DEVS, backend development <br>
-  🟡 &nbsp; At <a href="https://sidusheroes.com/" target="_blank">Sidus Heroes</a> as back-end developer (blockchain / web3) <br>
+  🟡 &nbsp; At <a href="https://sidusheroes.com/" target="_blank">Sidus Heroes</a> as back-end developer (blockchain / web3), now outboarding <br>
 
   Previous jobs: <br>
   <a href="https://azart.tech/en/" target="_blank">Azart tech</a> - as PUSH DEVS, backend development (lead) <br>

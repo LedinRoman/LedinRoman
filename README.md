@@ -3,9 +3,6 @@
 
 <p>
   <img align="right" height="200" src="https://sun9-4.userapi.com/impg/VU4GzMV6SBnZ6vBs13g7iFbJFwkYNnAuqhDxeg/TqS2EfZUI8M.jpg?size=200x200&quality=95&sign=f73d0576e8d220b1277f314e5cc61ca6&type=album">
-  <br>
-  <br/>
-  <br/>
   It's a pleasure to meet you! 👋 <br>
   Well, my name is Roman Ledin, I'm living at city called Taganrog, Russia and I'm 24 years old. For the last 3 years I'm working as a backend-developer and for the last year I'm also staying as entrepreneur
     
@@ -27,7 +24,7 @@
 <h3>&emsp;Technologies stack</h3>
 
 <div>
-  <img align="right" height="250" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img align="right" height="300" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
   
   <p align="left"> I mostly work with these technologies below </p>
   <img align="left" src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />

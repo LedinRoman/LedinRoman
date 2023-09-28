@@ -40,9 +40,12 @@
   <img align="left" src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
   <img align="left" src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
   <img align="left" src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
-  <p align="right"> And I'm also familiar with these </p>
 </div>
-
+  <br>
+  <br>
+  <br>
+  <br>
+  <p align="right"> And I'm also familiar with these </p>
 <div>
   <img align="right" src="https://skillicons.dev/icons?i=rabbitmq" height="45" alt="rabbitmq logo"  />
   <img align="right" src="https://skillicons.dev/icons?i=redis" height="45" alt="redis logo"  />

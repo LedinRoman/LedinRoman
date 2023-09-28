@@ -24,7 +24,7 @@
 <h3>&emsp;Technologies stack</h3>
 
 <div>
-  <img align="right" height="350" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+
   
   <p align="left"> I mostly work with these technologies below </p>
   <img align="left" src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
@@ -40,10 +40,6 @@
   <img align="left" src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
   <img align="left" src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
   <img align="left" src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
-  <br> 
-  <br>
-  <br/>
-  <br/>
   <p align="right"> And I'm also familiar with these </p>
 </div>
 

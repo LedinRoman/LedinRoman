@@ -9,6 +9,7 @@
   > And even have my own cozy team, organization: @push-devs
 
   My jobs: <br>
+  🟢 &nbsp; At <a href="https://at-systems.biz/" target="_blank">AT-systems</a> - backend developer <br>
   🟢 &nbsp; At <a href="https://neiroseti.ai/" target="_blank">Neiroseti.ai</a> - as PUSH DEVS, backend development <br>
 
   Previous jobs: <br>

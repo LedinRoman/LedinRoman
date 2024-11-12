@@ -4,7 +4,7 @@
 <p>
   <img align="right" height="200" src="https://sun9-4.userapi.com/impg/VU4GzMV6SBnZ6vBs13g7iFbJFwkYNnAuqhDxeg/TqS2EfZUI8M.jpg?size=200x200&quality=95&sign=f73d0576e8d220b1277f314e5cc61ca6&type=album">
   It's a pleasure to meet you! 👋 <br>
-  Well, my name is Roman Ledin, I'm living in city called Taganrog, Russia and I'm 24 years old. For the last 3 years I'm working as a backend-developer and for the last year I'm also staying as entrepreneur
+  Well, my name is Roman Ledin, I'm living in city called Taganrog, Russia and I'm 24 years old. For the last 4 years I'm working as a backend-developer and for the last 2 years I'm also staying as entrepreneur
     
   > And even have my own cozy team, organization: @push-devs
 
